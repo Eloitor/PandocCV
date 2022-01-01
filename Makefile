@@ -11,5 +11,5 @@ pdf: CV.md
 html: CV.md
 	mkdir -p output
 	cp media/* output/
-	pandoc -o output/CV.html CV.md \
+	pandoc -o output/index.html CV.md \
 	--template templates/cv.html
