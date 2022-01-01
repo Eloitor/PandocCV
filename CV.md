@@ -8,7 +8,7 @@ PhD student in Mathematics
 
 :::{.personalinfo}
 Website:
-: [mat.uab.cat/~etorrents](http://mat.uab.cat/~etorrents)
+: [mat.uab.cat/\~etorrents](http://mat.uab.cat/\~etorrents)
 
 E-mail:
 : [etorrents@mat.uab.cat](mailto:etorrents@mat.uab.cat) | [eloitorrentsj@gmail.com](mailto:eloitorrentsj@gmail.com)
